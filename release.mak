@@ -14,7 +14,6 @@ OBJCOPY := objcopy
 #Additional flags
 PREPROCESSOR_MACROS := 
 INCLUDE_DIRS := plugin/inc npapi/inc
-LIBRARY_NAMES := ssl crypto dl sqlite3
 ADDITIONAL_LINKER_INPUTS := 
 MACOS_FRAMEWORKS := 
 LINUX_PACKAGES := 
